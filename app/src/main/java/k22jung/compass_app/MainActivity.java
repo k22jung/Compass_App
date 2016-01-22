@@ -1,3 +1,9 @@
+/*
+Kenneth Jung
+Mechatronics Engineering 
+k22jung@uwaterloo.ca
+*/
+
 package k22jung.compass_app;
 
 import android.app.Activity;
